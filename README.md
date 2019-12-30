@@ -1,6 +1,6 @@
 # Custom Ruby Methods
 
-The idea is that I want to break down Ruby methods that I use a lot to thier simplest form so I can customize them as needed.
+The idea is that I want to break down Ruby methods that I use a lot to their simplest form so I can customize them as needed.
 
 This repo will have custom ruby methods that can be modified by adding more to them or changing their functionalities.
 
