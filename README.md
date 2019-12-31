@@ -17,3 +17,8 @@ This method will emulate the same functionality of the compact method. You can u
 2. [custom_count](https://github.com/siralomarahmed/custom-ruby-methods/blob/master/methods/custom_count.rb)
 
 This method will emulate the same functionality of the count method. You can use it to return the number of elements.
+
+----
+3. [custom_delete](https://github.com/siralomarahmed/custom-ruby-methods/blob/master/methods/custom_delete.rb)
+
+This method will emulate the same functionality of the delete method. You can use it to deletes all items from self that are equal to the provided parameter.
